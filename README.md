@@ -44,7 +44,7 @@
 
 Hey there! I'm **Ares** — a developer who'd rather spend three hours automating a five-minute task than do it twice by hand.
 
-I write Python by day and night, mostly building bots that manage things I'm too lazy to manage myself. When I'm not shipping something, I'm probably tearing it back apart to figure out why it broke. Dark mode is not a preference, it's a requirement.
+I code by day and night, mostly building bots that manage things I'm too lazy to manage myself. When I'm not shipping something, I'm probably tearing it back apart to figure out why it broke. Dark mode is not a preference, it's a requirement.
 
 </td>
 </tr>

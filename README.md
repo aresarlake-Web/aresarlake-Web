@@ -67,6 +67,11 @@ I code by day and night, mostly building bots that manage things I'm too lazy to
 `📁` **[Economy-Tracker-Bot](https://github.com/aresarlake-Web/Economy-Tracker-Bot)** — A full in-chat economy system with its own database, handlers, and localization. Basically a central bank in Python.
 
 `📁` **[Modere-OnlineShop](https://github.com/aresarlake-Web/Modere-OnlineShop.github.io)** — A live storefront frontend, deployed and actually working. Proof that not everything I ship talks back on Telegram.
+`🎬` **[MovieVerse](https://github.com/aresarlake-Web/MovieVerse)**
+— A live movie discovery frontend, deployed and actually working. Proof that I occasionally build apps people watch instead of bots that watch people.
+
+`📝` **[NotesHub](https://github.com/aresarlake-Web/NoteHUb)**
+— A live note-taking app, deployed and actually working. Proof that I can ship something that remembers things without storing them in Telegram.
 
 </td>
 <td width="120" valign="top" align="right">
